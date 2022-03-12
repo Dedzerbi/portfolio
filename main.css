@@ -1,0 +1,12 @@
+.container {
+  display: flex;
+  justify-content: center;
+}
+.center {
+  width: 400px;
+  padding: 10px;
+  background: #E6B3A5;
+  color: #121110;
+  font-weight: bold;
+  font-family: Tahoma;
+}
